@@ -1,0 +1,14 @@
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\bin\Debug\net8.0\beat-sound.exe
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\bin\Debug\net8.0\beat-sound.deps.json
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\bin\Debug\net8.0\beat-sound.runtimeconfig.json
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\bin\Debug\net8.0\beat-sound.dll
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\bin\Debug\net8.0\beat-sound.pdb
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.AssemblyInfoInputs.cache
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.AssemblyInfo.cs
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.csproj.CoreCompileInputs.cache
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.dll
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\refint\beat-sound.dll
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.pdb
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\beat-sound.genruntimeconfig.cache
+C:\Users\mga6ca\Documents\New folder\Estudos\beat-sound\obj\Debug\net8.0\ref\beat-sound.dll
